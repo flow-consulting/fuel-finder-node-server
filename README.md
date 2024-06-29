@@ -17,7 +17,7 @@ The server runs on a Raspberry Pi and is deployed using GitHub Actions.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/fuel-finder-node-server.git
+   git clone https://github.com/flow-consulting/fuel-finder-node-server.git
    cd fuel-finder-node-server
    ```
 
